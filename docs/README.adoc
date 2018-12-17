@@ -1,4 +1,4 @@
-== CRM для школ
+== CRM для школ https://dependabot.com[image:https://api.dependabot.com/badges/status?host=github&repo=asm0dey/school-crm[Dependabot Status]]
 
 === Цель
 
